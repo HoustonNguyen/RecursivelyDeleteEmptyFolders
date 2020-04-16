@@ -1,0 +1,6 @@
+D:\USER\GITHub\RecursivelyDeleteEmptyFolders\RecursivelyDeleteEmptyFolders\bin\Debug\RecursivelyDeleteEmptyFolders.exe.config
+D:\USER\GITHub\RecursivelyDeleteEmptyFolders\RecursivelyDeleteEmptyFolders\bin\Debug\RecursivelyDeleteEmptyFolders.exe
+D:\USER\GITHub\RecursivelyDeleteEmptyFolders\RecursivelyDeleteEmptyFolders\bin\Debug\RecursivelyDeleteEmptyFolders.pdb
+D:\USER\GITHub\RecursivelyDeleteEmptyFolders\RecursivelyDeleteEmptyFolders\obj\Debug\RecursivelyDeleteEmptyFolders.csprojResolveAssemblyReference.cache
+D:\USER\GITHub\RecursivelyDeleteEmptyFolders\RecursivelyDeleteEmptyFolders\obj\Debug\RecursivelyDeleteEmptyFolders.exe
+D:\USER\GITHub\RecursivelyDeleteEmptyFolders\RecursivelyDeleteEmptyFolders\obj\Debug\RecursivelyDeleteEmptyFolders.pdb
